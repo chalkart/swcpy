@@ -90,9 +90,10 @@ These are all sorts of user interface settings, that should not interfere with g
 |Store tab             |resources                       |(not found)                     |(not found)                     |(not found)                     |(not found)                     |(not found)                     |(not found)                     |(not found)                     |(not found)                     |
 
 
-## Uninterpreted stats
+## Base Strength Values
 
-Seriously, we don't really know what to do with these.
+Each level of this building contributes to the over strength of the base as a whole, known as base strength.
+Use the Xp values to calculate the value of this building at a particular level.
 
   * Order: 7
 
